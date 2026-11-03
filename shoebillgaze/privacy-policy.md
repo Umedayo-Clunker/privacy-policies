@@ -67,7 +67,7 @@ title: ShoebillGaze プライバシーポリシー / Privacy Policy
 
 本ポリシーに関するお問い合わせは、次の窓口までお願いします。
 
-【要置換：https://github.com/<ユーザー名>/<リポジトリ名>/issues】
+https://github.com/umedayo-clunker/privacy-policies/issues
 
 ---
 
@@ -136,4 +136,4 @@ This policy may be updated when necessary. Changes will be posted on this page, 
 
 For questions about this policy, please contact us here:
 
-【要置換：https://github.com/<username>/<repository>/issues】
+https://github.com/umedayo-clunker/privacy-policies/issues
