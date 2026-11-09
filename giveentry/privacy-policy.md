@@ -46,7 +46,7 @@ Popupと設定画面の「☕ 開発者を応援」から、[Ko-fiの支援ペ�
 
 応募記録はSidePanelから確認・削除できます。下書きはPopupの破棄操作や期限切れの整理の対象です。拡張機能をアンインストールするとChrome内の拡張機能データは削除されます。書き出したファイルや外部サービス上の情報は、それぞれの保存先で管理してください。
 
-ポリシーの変更はこのページでお知らせし、最終更新日を改めます。お問い合わせ先は **【公開用メールアドレス】** です。
+ポリシーの変更はこのページでお知らせし、最終更新日を改めます。お問い合わせ先は **umedayo.clunker@gmail.com** です。
 
 <a id="english"></a>
 
@@ -78,4 +78,4 @@ If you support the developer, Ko-fi and your chosen payment provider may share i
 
 You can view and delete entries in the side panel. Drafts can be discarded and are subject to expiry cleanup. Uninstalling GiveEntry deletes its extension data from Chrome. Manage exported files and information on external services at their respective locations.
 
-Updates to this policy will appear on this page with a revised date. For questions, contact **【公開用メールアドレス】**.
+Updates to this policy will appear on this page with a revised date. For questions, contact **umedayo.clunker@gmail.com**.
